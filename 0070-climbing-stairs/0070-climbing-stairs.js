@@ -14,8 +14,3 @@ function climbStairs(n) {
 
     return b;
 }
-
-console.log(climbStairs(2)); // 2
-console.log(climbStairs(3)); // 3
-console.log(climbStairs(4)); // 5
-console.log(climbStairs(5)); // 8
